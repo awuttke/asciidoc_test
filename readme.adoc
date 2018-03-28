@@ -1,3 +1,17 @@
-# Asciidoc readme
+= Document title
+Doc Writer <doc.writer@asciidoctor.org>
 
 This should be shown formated
+
+TIP: Shown as tip
+
+*bold*
+
+_italic_
+
+`preformatted`
+
+'''
+
+. ordered list
+. item 2
